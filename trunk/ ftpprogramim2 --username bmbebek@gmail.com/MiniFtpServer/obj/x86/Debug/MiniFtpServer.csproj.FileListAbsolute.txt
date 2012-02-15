@@ -1,0 +1,9 @@
+c:\users\mgnfcnt\documents\visual studio 2010\Projects\MiniFtpServer\MiniFtpServer\bin\Debug\MiniFtpServer.exe
+c:\users\mgnfcnt\documents\visual studio 2010\Projects\MiniFtpServer\MiniFtpServer\bin\Debug\MiniFtpServer.pdb
+c:\users\mgnfcnt\documents\visual studio 2010\Projects\MiniFtpServer\MiniFtpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mgnfcnt\documents\visual studio 2010\Projects\MiniFtpServer\MiniFtpServer\obj\x86\Debug\MiniFtpServer.Form1.resources
+c:\users\mgnfcnt\documents\visual studio 2010\Projects\MiniFtpServer\MiniFtpServer\obj\x86\Debug\MiniFtpServer.Properties.Resources.resources
+c:\users\mgnfcnt\documents\visual studio 2010\Projects\MiniFtpServer\MiniFtpServer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mgnfcnt\documents\visual studio 2010\Projects\MiniFtpServer\MiniFtpServer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mgnfcnt\documents\visual studio 2010\Projects\MiniFtpServer\MiniFtpServer\obj\x86\Debug\MiniFtpServer.exe
+c:\users\mgnfcnt\documents\visual studio 2010\Projects\MiniFtpServer\MiniFtpServer\obj\x86\Debug\MiniFtpServer.pdb

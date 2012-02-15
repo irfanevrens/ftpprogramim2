@@ -1,4 +1,4 @@
-﻿using System;
+ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,8 +17,8 @@ namespace MiniFtpServer
             InitializeComponent();
         }
         public string siteAdi = "ftp.sanalkod.net"; //örn. csharptr.com
-        public string kullaniciAdi = "sanalkod"; //k.adi
-        public string sifre = "mgnfcnt"; //sifre
+        public string kullaniciAdi = "kadi"; //k.adi
+        public string sifre = "sifre"; //sifre
         //yukarıda FTP bilgilerinizi giriniz
 
         private void Upload(string FtpServer, string Username, string Password, string filename)
@@ -58,7 +58,7 @@ namespace MiniFtpServer
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Upload("ftp.sanalkod.net","sanalkod","mgnfcnt","C:\\Users\\Mgnfcnt\\Desktop\\oyunresim\\DSC_0091.JPG");
+            Upload("ftp.sanalkod.net","kadi","sifre","C:\\Users\\Mgnfcnt\\Desktop\\oyunresim\\DSC_0091.JPG");
         }
     }
 }
